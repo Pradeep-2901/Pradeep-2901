@@ -1,4 +1,4 @@
-![Hello Banner](GithubBanner.png)
+![Hello Banner](Github_Banner.png)
 
 <!--
 **Pradeep-2901/Pradeep-2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
