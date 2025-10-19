@@ -16,3 +16,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,git,figma" />
+</p>
