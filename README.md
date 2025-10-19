@@ -1,16 +1,18 @@
 ![Hello Banner](Github_Banner.png)
+### 💫✨ About Me
+<p>
+  I'm a 3rd Year CSE student specializing in AIML and Full Stack Development.<br/>
+  I'm passionate about building scalable web applications with the MERN stack.<br/>
+  Ask me about anything #React #Nodejs #web #design<br/>
+  Leading @VistasCodingClub and Contributing as a Student Coordinator
+</p>
 
-<!--
-**Pradeep-2901/Pradeep-2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Socials
+<p>
+  <a href="https://www.linkedin.com/in/pradeepbehera2901">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/iampradeep.2901">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
