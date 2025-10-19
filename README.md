@@ -9,10 +9,7 @@
 
 ## 🌐 Socials:
 <p>
-<a href="https://www.linkedin.com/in/pradeepbehera2901">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="30" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/iampradeep.2901">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="30" />
+<a href="https://www.linkedin.com/in/pradeepbehera2901"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/iampradeep.2901"><imgsrc="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="30" />
 </a>
 </p>
 
