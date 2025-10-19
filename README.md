@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,typescript,mongodb" />
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,figma" />
 </p>
 
@@ -22,6 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-2901&show_icons=true&rank_icon=github&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-2901&theme=dark" />
 <img src="httpsD://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-2901&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-2901&layout=compact&theme=dark" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
