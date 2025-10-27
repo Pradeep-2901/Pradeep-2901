@@ -1,5 +1,5 @@
 ![Hello Banner](Github_Banner.png)
-# ✨ About Me:
+# 💫 About Me:
 <p>
   🎓I'm a 3rd Year CSE student specializing in AIML and Full Stack Development.<br/>
   🧑‍💻I'm passionate about building scalable web applications with the MERN stack.<br/>
