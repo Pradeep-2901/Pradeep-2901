@@ -19,9 +19,9 @@
 </p>
 
 # 📊 Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-2901&show_icons=true&rank_icon=github&theme=dark" />
+<img src="https://readme-stats-three-ashen.vercel.app/api?username=Pradeep-2901&show_icons=true&rank_icon=github&theme=dark" alt="Pradeep's Github Stats" />
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pradeep-2901&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-2901&layout=compact&theme=dark" />
+<img src="https://readme-stats-three-ashen.vercel.app/api/top-langs/?username=Pradeep-2901&layout=compact&theme=dark" alt="Pradeep's Top Languages" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
